@@ -48,9 +48,14 @@ print("\nFile Copied Successfully!")
 
 ### OUTPUT:
 
+![copy1](https://user-images.githubusercontent.com/120431120/215103694-ea299a2f-119d-43ea-ac0a-3e7a8904dbc4.jpg)
 
 
 
+![copy2](https://user-images.githubusercontent.com/120431120/215103741-18a7033b-b459-4a09-a218-7f91b80c3acd.jpg)
+
+
+![copy3](https://user-images.githubusercontent.com/120431120/215103784-d89c196e-3f59-4494-906c-4dc9270903c7.jpg)
 
 
 

@@ -47,9 +47,9 @@ print("\nFile Copied Successfully!")
 ```
 
 ### OUTPUT:
-![](copy1.png)
-![](copy2.png)
-![](copy3.png)
+
+
+
 
 
 
